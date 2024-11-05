@@ -37,6 +37,6 @@ $ git clone https://github.com/Alejandro-190107/AR-3D-Models.git
 
 ## <p align="left" style="color: #9575cd;"> Screenshot Project 💻 </p>
 
-🔶 [Project Website](https://alejandro-lopez.futuretecware.com/AR-3D-Models/index.html)
+🔶 [Project Website](https://alejandro-190107.github.io/AR-Models-3D/)
 
 ![Screenshot](assets/img/Screenshot.png)
